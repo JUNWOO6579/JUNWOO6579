@@ -5,7 +5,7 @@
 |JavaScript|React|Sass|Vue|
 | :--: | :--: | :--: |
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="100" height="100" /></div> |
-
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNWOO6579&show_icons=true&theme=radical)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/JUNWOO6579/github-readme-stats)
