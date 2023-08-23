@@ -21,3 +21,6 @@
 ### Music
 <img src="https://img.shields.io/badge/soundcloud-%23FF3300.svg?&style=for-the-badge&logo=soundcloud&logoColor=white" />
 <img src="https://img.shields.io/badge/musescore-%231A70B8.svg?&style=for-the-badge&logo=musescore&logoColor=white" />
+
+---
+음악하는 개발자 옥준우입니다.
