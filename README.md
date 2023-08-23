@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/trello-%230079BF.svg?&style=for-the-badge&logo=trello&logoColor=white" />
+---
 ### Music
 <img src="https://img.shields.io/badge/soundcloud-%23FF3300.svg?&style=for-the-badge&logo=soundcloud&logoColor=white" />
 <img src="https://img.shields.io/badge/musescore-%231A70B8.svg?&style=for-the-badge&logo=musescore&logoColor=white" />
